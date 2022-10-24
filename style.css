@@ -5,4 +5,10 @@ body {
 }
 
 h1 {
+    font-size: 10rem;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+        sans-serif;
+    color: aqua;
+    position: absolute;
 }
